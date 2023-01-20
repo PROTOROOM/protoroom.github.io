@@ -3,6 +3,9 @@
 {{ define "body_classes" }}page-home{{ end }}
 {{ define "header_classes" }}{{ end }}
 
+{{ with .GetPage "/projects" }}{{.Render}}{{end}}
+
+
 {{ define "meta_tags" }}
 <meta name="description" content="{{ .Site.Params.homepage_meta_tags.meta_description }}" />
 <meta property="og:title" content="{{ .Site.Params.homepage_meta_tags.meta_og_title }}" />
