@@ -1,5 +1,5 @@
 +++
-image = "doc/smallbig/2019-09-11BTBT.jpg"
+image = "smallbig/2019-09-11BTBT.jpg"
 showonlyimage = true
 date = "2023-01-13T19:44:32+05:30"
 title = "SmallBig_SØ"
@@ -22,11 +22,11 @@ SmallBig-SØ는 새로운 방향의 사운드 소비방식을 제시하는 프�
 
 # SmallBig_SØ Manual , 2022
 
-<iframe width="720" height="480" src="https://www.youtube.com/embed/lKoQW8Z7zds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/lKoQW8Z7zds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # SmallBig_SØ 2022 ZER01NE Day Live
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/d-PcqJYNjQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/d-PcqJYNjQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
@@ -34,7 +34,7 @@ SmallBig-SØ는 새로운 방향의 사운드 소비방식을 제시하는 프�
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UnZVhWtLCks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/UnZVhWtLCks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
