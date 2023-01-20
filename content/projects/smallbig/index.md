@@ -19,20 +19,17 @@ SmallBig-SØ는 새로운 방향의 사운드 소비방식을 제시하는 프�
 
 # SmallBig_SØ Manual , 2022
 
-<iframe src="https://www.youtube.com/embed/lKoQW8Z7zds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube lKoQW8Z7zds >}}
+
 
 # SmallBig_SØ 2022 ZER01NE Day Live
 
-<iframe src="https://www.youtube.com/embed/d-PcqJYNjQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
+{{< youtube d-PcqJYNjQU >}}
 
 제작 이미지들???
 
 
-
-<iframe src="https://www.youtube.com/embed/UnZVhWtLCks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+{{< youtube UnZVhWtLCks >}}
 
 
 ![first ideaSketch](2019-09-11BTBT.jpg)

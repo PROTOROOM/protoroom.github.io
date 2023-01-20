@@ -28,10 +28,10 @@ summaryLength = 30
 #     url = "/"
 #     weight = 1
 
-[[menu.main]]
-    name = "Projects"
-    url = "/projects/"
-    weight = 1
+# [[menu.main]]
+#     name = "Projects"
+#     url = "/projects/"
+#     weight = 1
 
 [params]
   google_analytics_id=""
