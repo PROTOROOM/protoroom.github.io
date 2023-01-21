@@ -9,6 +9,15 @@ PROTOROOM은 테크놀로지 매체 기반의 키트(KIT)로 작업을 하는 �
 
 PROTOROOM is a Meta Media collective with a creative practice based on the technological medium of KIT. KIT is a meta-medium, leading sensual and cogitative experiences as a mediator of opportunities for discourse and contemplation on technology which has become an undeniable part of ecology. Under the title \<Tech x Kit x Critic\> evolved series of works in the forms of exhibitions and workshops. The collective has been run by Hoonida Kim and Seungbum Kim since 2014.
 
+<br/><br/>
+
+
+
+
+
+
+
+<img src="./hoonida_Kim.jpg" width="200">
 
 ### 후니다 킴 (Hoonida Kim)
 <b><a href="http://hoonida.com/">http://hoonida.com</a></b>
@@ -20,6 +29,9 @@ PROTOROOM is a Meta Media collective with a creative practice based on the techn
 
 Born and raised in Seoul, Korea, Hoonida studied sculpture in college, and moved to Japan to study sound art and technology. Currently, he is working on ‘sculpting’ an atmosphere using installations and performance engaging haptics and sound. He has also created kits for technology art and media literacy designed to give learners the experience of transforming basic electrical digital signals into light, sound, and movement, which he has been using in various new media workshops in Korea and Japan. His work has been exhibited in “EXTENDED SENSES” (Japan, NTT InterCommunication Center, 2008), “Lexical Gap / Da Vinci creative festival”(Korea, Seoul Art Space Geumcheon, 2014), “CONSONARE / sound light scape ”(Japan, 3331Arts Chiyoda, 2015), and a solo exhibition “Sound Apparatus Series H_01” (Seoul, GanaArtSpace, 2013). He co-founded a Korean-Japanese media creator group called NODE_LAB JP/KR and formed the new media art group PROTOROOM with SeungBum Kim in 2014.
 
+<br/><br/>
+
+<img src="./seungbum_Kim.jpg" width="180">
 
 ### 김승범 (Seungbum Kim)
 <b><a href="http://metakits.cc">http://metakits.cc</a></b>
