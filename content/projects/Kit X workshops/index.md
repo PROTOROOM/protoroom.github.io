@@ -2,7 +2,7 @@
 image = "portfolio/smallbig/2019-09-11BTBT.jpg"
 showonlyimage = true
 date = "2023-01-13T19:44:32+05:30"
-title = "⊙ Workshops"
+title = "⊙ Kit X Workshop"
 draft = false
 weight = 200
 
