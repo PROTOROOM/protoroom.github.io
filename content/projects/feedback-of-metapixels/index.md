@@ -12,7 +12,6 @@ weight = 2
 <!--more-->
 
 ## Feedback of MetaPixels - Language for Digital Atoms (2017)
- * **PROTOROOM (Hoonida Kim, SeungBum Kim)**
  * [Our Bright Future–Cybernetic Fantasy - Nam June Paik Art Center](https://njpac-en.ggcf.kr/archives/exhibit/cybernetic-fantasy?term=10)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vmuGFK7RI-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

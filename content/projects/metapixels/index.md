@@ -11,13 +11,9 @@ weight = 2
 
 <!--more-->
 
-## Feedback of MetaPixels - Language for Digital Atoms (2017)
- * **PROTOROOM (Hoonida Kim, SeungBum Kim)**
- * [Our Bright Future–Cybernetic Fantasy - Nam June Paik Art Center](https://njpac-en.ggcf.kr/archives/exhibit/cybernetic-fantasy?term=10)
+## 2020
+ {{< youtube 8DPH9F5KNQg >}}
 
-<iframe width="560" height="480" src="https://www.youtube.com/embed/8DPH9F5KNQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## 작업의 소개
  일반적인 카메라는 대상의 이미지를 찍는다. 그러나 &lt;메타픽셀 피드백&gt;에 설치된 카메라는 대상의 이미지를 찍는 카메라가 아니다. 디지털 이미지의 픽셀을 낯설게 건드리는 여러 대의 카메라를 제작하고, 이들과 디지털 이미지 사이에서 발생하는 일대다 피드백의 설치 작업이다.
 
  디지털 기술의 발전 초기, 인간과 디지털의 접점에서 도드라지게 보였던 픽셀은 디스플레이 기술의 발전과 층층이 추상화된 그래픽 유저 인터페이스 등으로 이제는 점점 인지하기 힘들어지고 있다. PROTOROOM이 다시 사유해보고자 하는 대상은 픽셀과 같이 이제 점점 비가시적인 것이 되어가는, 디지털 매체의 ‘원자적인’ 존재이다. 즉 물리적 세계의 원자(Atom)에 대응한 반(反)파트너 같던  디지털의 비트(Bits)는 이제 더욱 중층화 되고 고해상도화 되어 가는 세계에서 새롭게 발굴하고 인식해야 할 원자적 존재가 되어 가고 있는 것이다.
