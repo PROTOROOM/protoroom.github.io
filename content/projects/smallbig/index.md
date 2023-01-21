@@ -32,13 +32,9 @@ Not only have we become accustomed to the proliferation of meaningless data, acc
 
 # SmallBig_SØ 2022 ZER01NE Day Live
 
-{{< youtube d-PcqJYNjQU >}}
+{{< youtube d-PcqJYNjQU >}}<!--more-->
 
 
-
-
-
-<!--more-->
 
 ![1.SmallBig_SØ+Live](./1.SmallBig_SØ+Live.jpg)
 

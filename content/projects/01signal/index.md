@@ -4,25 +4,33 @@ showonlyimage = true
 date = "2023-01-13T19:44:32+05:30"
 title = "01 signal"
 draft = false
-weight = 2
+weight = 3
 
 +++
 
-SmallBig_SØ 
+
+
+{{< youtube co9ziGXSjrY >}}
+## <!--more-->
+
+## sensuous transforming of 0 | 1 signal Ver.1 (2016)
+
+‘**sensuous transforming of** **0 | 1** **signal**’ is an installation work that allows construction of kits
+ that allow experience and contemplation on the elements of computing while converting and transforming the 0,1 bits into different layers through workshop and exhibition.
 
 <!--more-->
 
-![first ideaSketch](2019-09-11BTBT.jpg)SmallBig_SØ, first ideaSketch 2019
+![o1signal-0](./o1signal-0.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/co9ziGXSjrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!--more-->
 
-# SmallBig_SØ Manual by PROTOROOM( hoonida kim, seungbum kim ), 2022
+![o1signal-1](./o1signal-1.png)
 
-
-
-
+<!--more-->
 
 
+
+![o1signal-2](./o1signal-2.png)
 
 
 
