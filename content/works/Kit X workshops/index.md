@@ -11,17 +11,25 @@ weight = 200
 
 <!--more-->
 
-## KITs for reading soundscape 소리풍경을 읽어주는 키트 ([Reliquum](https://reliquum.co.kr/archives/author/reliquum) ), 2020
+
+
+## KITs for reading soundscape 소리풍경을 읽어주는 키트 ( [Reliquum](https://reliquum.co.kr/archives/author/reliquum) ), 2020
 
 ![2020_KITforreadingsoundscape](2020_KITforreadingsoundscape.jpg)
 
-## metapixel_workshop ( ), 2018
+## metapixel_workshop ( Barim ), 2018
 
 ![2018_metapixel_workshop_t](2018_metapixel_workshop_t.png)
 
 ## 1nput0utput kit ( NTT ICC ), 2017
 
 ![2017_1nput0utputkit](2017_1nput0utputkit.png)
+
+
+
+## TinkeringWorkshop( Google.org ), 2015
+
+![2015_TinkeringWorkshop](2015_TinkeringWorkshop.png)https://protoroom.kr/TinkeringWorkshop/#!index.md
 
 
 
