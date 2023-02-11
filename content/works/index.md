@@ -6,5 +6,5 @@ weight: 1
 
 SmallBig_SØ, first ideaSketch 2019
 
-![2019-09-11BTBT](/projects/2019-09-11BTBT.jpg)
+![2019-09-11BTBT](2019-09-11BTBT.jpg)
 
