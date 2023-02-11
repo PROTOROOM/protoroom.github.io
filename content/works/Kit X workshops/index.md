@@ -11,7 +11,13 @@ weight = 200
 
 <!--more-->
 
-SmallBig_SØ, first ideaSketch 2019
+## KITs for reading soundscape 소리풍경을 읽어주는 키트 ([Reliquum](https://reliquum.co.kr/archives/author/reliquum) ), 2020
+
+![2020_KITforreadingsoundscape](2020_KITforreadingsoundscape.jpg)
+
+## metapixel_workshop ( ), 2018
+
+![2018_metapixel_workshop_t](2018_metapixel_workshop_t.png)
 
 ## 1nput0utput kit ( NTT ICC ), 2017
 
