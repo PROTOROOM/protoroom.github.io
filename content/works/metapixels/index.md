@@ -9,10 +9,13 @@ weight = 2
 
 +++
 
-
-- 2020, "MetaPixels", <파라다이스아트랩 페스티벌> 전시, 파라다이스문화재단, 한국
-
  {{< youtube 8DPH9F5KNQg >}}
+
+
+<br/>
+
+### MetaPixels (2020)
+- [<파라다이스아트랩 페스티벌> 전시](http://paradise-cf.or.kr/program/art_lab?menuitems=3), 파라다이스문화재단, 한국
 
 <br/>
 "MetaPixels"는 디지털 이미지의 픽셀을 낯설게 건드리는 여러 대의 카메라를 제작하고, 이들과 디지털 이미지 사이에서 발생하는 일대다 피드백의 설치 작업이다.
