@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "/"
 languageCode = "ko-kr"
 title = "PROTOROOM"
 # themesDir = "/themes"
@@ -35,9 +35,9 @@ summaryLength = 30
 
 [params]
   google_analytics_id=""
-  homepage_button_link = '/projects'
+  homepage_button_link = '/'
   homepage_button_text = ''
-  homepage_intro = '/projects'
+  homepage_intro = '/'
   homepage_image = '/images/terminal.gif'
 
   ## You can enable to add anchor links to header elements
