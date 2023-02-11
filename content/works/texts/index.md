@@ -6,5 +6,7 @@ weight: 900
 
 | Year          | Description |
 | -----------   | ----------- |
-| 2023          | some some       |
-| 2023          | blah blah        |
+| 2022-10-10          | [1KB로 당신은 무엇을 할 수 있을까?](https://h21.hani.co.kr/arti/culture/culture_general/52698.html), 오영진 테크노컬처 연구자, 한겨례21        |
+| 2019 | ['데이터와 연산장치' 보고서](https://lib.arte.or.kr/researchdata/board/ArchiveData_BoardView.do?board_id=BRD_ID0047708), 최빛나/송수연/김승범/후니다킴/장혜진, 한국문화예술교육진흥원 
+| 2019-03-12 | [아티스트 컬렉티브에 대해 말하지 않는 것](https://www.noblesse.com/home/news/magazine/detail.php?no=8271), 이영균, Noblesse |
+| 2015-12-06 | [무지-무책임-무능력 '디지털 문맹'에서 탈출하라](https://www.hankookilbo.com/News/Read/201512062099954115), 임태훈 인문학협동조합 미디어기획위원장, 한국일보 |
