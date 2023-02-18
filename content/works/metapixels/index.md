@@ -42,7 +42,7 @@ It is a work of producing several cameras that unfamiliarly touch the pixels of 
 ### Reddit Place
 **<https://draemm.li/various/place-atlas/>**
 
-![](./init01.png)
+![](./init01.png?width=300px)
 
 reddit.com/r/place - Place는 2017년 만우절, 소셜 네트워킹 사이트인 Reddit에서 시행한 사회적 실험이었다. Reddit 사용자는 16 색 팔레트에서 단일 픽셀의 색상을 골라  reddit.com/r/place 에 있는 온라인 캔버스를 수정하였다. 하나의 픽셀을 찍은 후에는 5 분에서 20 분정도의 시간이 흐른 후에야 다음 픽셀을 찍을 수 있었다. 백만 명이 넘는 사용자가 캔버스를 편집하여 총 약 1,600 만 개의 타일을 배치하였다. 이 실험은 Reddit과 같은 온라인 커뮤니티와 인터넷 문화의 다양성을 보여주는 집단 창작이다. - 위키피디아
 
