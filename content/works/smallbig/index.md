@@ -34,7 +34,9 @@ Not only have we become accustomed to the proliferation of meaningless data, acc
 ### 
 
 {{< youtube d-PcqJYNjQU >}}<!--more-->
-**SmallBig_SØ / 2022 ZER01NE Day Live ( 2022 )**
+**SmallBig_SØ / PROTOROOM Live 2022 ZER01NE Day ( 2022 )**
+
+
 
 ![1.SmallBig_SØ+Live](./1.SmallBig_SØ+Live.jpg)
 
@@ -44,15 +46,19 @@ Not only have we become accustomed to the proliferation of meaningless data, acc
 
 {{< youtube opbAQyeQCYI >}}
 
-SmallBig_SØ / 2022 ZER01NE Day PROTOROOMxKohui
+**SmallBig_SØ / PROTOROOMxKohui Live 2022 ZER01NE Day (2022)**
+
+<br>
 
 ![0.SmallBig_SØ](./0.SmallBig_SØ.jpg)
 
 <!--more-->
 
+<br>
+
 ![2.prototypeSmallbig](./2.prototypeSmallbig.jpg)
 
-
+<br>
 
 
 © 2023 PROTOROOM
