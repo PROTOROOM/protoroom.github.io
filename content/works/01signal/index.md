@@ -13,7 +13,7 @@ weight = 3
 {{< youtube co9ziGXSjrY >}}
 ## <!--more-->
 
-## sensuous transforming of 0 | 1 signal Ver.1 (2016)
+### sensuous transforming of 0 | 1 signal Ver.1 (2016)
 
 * [Media Art as an Awareness Filter-NTT InterCommunication Center (ICC)]( https://www.ntticc.or.jp/en/archive/works/sensuous-transforming-of-0-1-signal-ver-1/)
 
