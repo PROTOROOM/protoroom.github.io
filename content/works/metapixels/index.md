@@ -29,7 +29,7 @@ weight = 2
 
 >>**오늘날의 속도감 있는 기술 발전 속에서 "존재를 잊은 디지털 대상"을 우리는 다시 찾아내고 읽어낼 수 있을까?**
 
-
+It is a work of producing several cameras that unfamiliarly touch the pixels of a digital image and installing one-to-many feedback between them and the digital image. A typical camera takes an image of an object. However, a “metapixel camera” sends a message to each pixel that has become invisible as hidden under the surface of a digital screen, not just taking an image of an object. Through the message, each pixel exists as an actor. As a work to rethink and reinterpret technologies that have become part of the ecosystem, especially computing as metamedia, it intends to give metamedia properties to pixels that exist at the other end of the boundary of the latest technology
 
 
 ![](./metapixels_02.png)

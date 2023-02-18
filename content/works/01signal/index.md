@@ -15,6 +15,8 @@ weight = 3
 
 ## sensuous transforming of 0 | 1 signal Ver.1 (2016)
 
+* [Media Art as an Awareness Filter-NTT InterCommunication Center (ICC)]( https://www.ntticc.or.jp/en/archive/works/sensuous-transforming-of-0-1-signal-ver-1/)
+
 ‘**sensuous transforming of** **0 | 1** **signal**’ is an installation work that allows construction of kits
  that allow experience and contemplation on the elements of computing while converting and transforming the 0,1 bits into different layers through workshop and exhibition.
 

@@ -40,6 +40,8 @@ Not only have we become accustomed to the proliferation of meaningless data, acc
 
 <!--more-->
 
+{{< youtube opbAQyeQCYI >}}
+
 ![0.SmallBig_SØ](./0.SmallBig_SØ.jpg)
 
 <!--more-->
