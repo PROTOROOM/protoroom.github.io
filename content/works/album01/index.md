@@ -1,8 +1,8 @@
 +++
 date = "2023-05-19T15:25:32+05:30"
-title = "SmallBig_SØ Play Album 01"
+title = "Play Album 01"
 draft = false
-weight = 1
+weight = 4
 
 +++
 
