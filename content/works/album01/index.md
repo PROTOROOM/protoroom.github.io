@@ -2,7 +2,7 @@
 date = "2023-05-19T15:25:32+05:30"
 title = "Play Album 01"
 draft = false
-weight = 4
+weight = 1
 
 +++
 
