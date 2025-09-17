@@ -3,7 +3,7 @@
 {{ define "body_classes" }}page-home{{ end }}
 {{ define "header_classes" }}{{ end }}
 
-{{ with .GetPage "/works" }}{{.Render}}{{end}}
+{{ with .GetPage "/works" }}{{.Render "single"}}{{end}}
 
 
 {{ define "meta_tags" }}
