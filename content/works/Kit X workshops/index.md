@@ -17,6 +17,11 @@ weight = 200
 https://reliquum.co.kr/archives/author/reliquum
 <br/><br/><br/><br/>
 
+## DigiTTigi (TRANS BOOKS), 2018
+![2018_digittigi](2018_digittigi.png)
+https://archive.transbooks.center/digittigi-digiobiproto-ver-2018
+<br/><br/><br/><br/>
+
 ## metapixel_workshop ( Barim ), 2018
 ![2018_metapixel_workshop_t](2018_metapixel_workshop_t.png)
 <br/><br/><br/><br/>
